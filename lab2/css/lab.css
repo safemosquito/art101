@@ -1,9 +1,44 @@
-/* Here we can set styles for this lab page that we don't want to effect others pages */
 
-/* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
-.minor-section {
-    padding: 10px;
-    margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
-  }
+h1{
+  color: darkblue;
+  font-size: 50px;
+}
+
+p{
+  font-family:"Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif";
+  text-indent:20px;
+
+}
+#content {
+  width: 100%;
+  font-size: 20px;
+}
+
+body {
+  background-color: lightskyblue;
+}
+
+#Waltersaxophonepic {
+  border-width: 1px;
+  border: solid;
+  border-color: darkblue;
+}
+
+#JennyMei {
+  border-width: 1px;
+  border: solid;
+  border-color: darkblue;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.Waltersaxophonepic,
+.JennyMei {
+  width: 300px;
+  height: auto;
+}
