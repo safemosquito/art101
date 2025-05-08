@@ -1,0 +1,17 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #7b95d0;
+    background-color: #b5d6f8;
+  }
+  body {
+    background-color: rgb(244, 155, 201);
+  }
+  #content
+  {
+  margin: 10px;
+  padding: 10px;
+  border: solid 1px #888;
+  background-color: #fbc3f2;
+  }
+  
