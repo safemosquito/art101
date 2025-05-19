@@ -1,0 +1,12 @@
+
+body {
+    background-color: rgb(175, 203, 241);
+  }
+  #content
+  {
+  margin: 10px;
+  padding: 10px;
+  border: solid 1px #888;
+  background-color: #f7d9f2;
+  }
+  
