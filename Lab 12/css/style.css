@@ -1,0 +1,59 @@
+/* style.css */
+
+/* Page background and font */
+body {
+    background-color: #ffe6f0; /* baby pink */
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+  }
+  
+  /* Content wrapper */
+  #content {
+    max-width: 700px;
+    margin: auto;
+    background-color: #fff0f5; /* lighter pink */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Headings */
+  h1, h2 {
+    text-align: center;
+    color: #cc3366; /* rose pink */
+  }
+  
+  /* Paragraphs */
+  p {
+    text-align: center;
+  }
+  
+  /* Input box */
+  input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    margin: 10px auto;
+    display: block;
+    border: 1px solid #cc3366;
+    border-radius: 5px;
+  }
+  
+  /* Button */
+  button {
+    background-color: #cc3366;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    display: block;
+    margin: 10px auto;
+    cursor: pointer;
+  }
+  
+  /* Output */
+  #output {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
