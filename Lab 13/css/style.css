@@ -1,0 +1,27 @@
+/* General page styling */
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #fff0f5; /* light pink background */
+    margin: 20px;
+    color: #333;
+  }
+  
+  /* Section headers */
+  h1, h2, h3 {
+    color: #d63384; /* bright pink */
+  }
+  
+  /* Output box styling */
+  #output {
+    background-color: #ffe6f0;  /* soft pink */
+    font-family: 'Courier New', monospace;
+    padding: 20px;
+    border: 2px solid #ffb6c1; /* pink border */
+    border-radius: 15px;
+    columns: 4;
+    column-gap: 40px;
+    white-space: pre-line;
+    box-shadow: 2px 2px 10px rgba(255, 182, 193, 0.3);
+    color: #99004d; /* darker pink text */
+  }
+  
