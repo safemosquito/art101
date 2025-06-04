@@ -1,0 +1,46 @@
+/* style.css - Lab 16 */
+body {
+    background-color: #e0f7fa; /* light baby blue */
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #007acc; /* deeper blue for title */
+    font-size: 2.5em;
+  }
+  
+  h2 {
+    color: #0288d1;
+    margin-top: 1.5em;
+  }
+  
+  h3 {
+    color: #01579b;
+    margin-top: 1em;
+  }
+  
+  p {
+    font-size: 1em;
+    line-height: 1.6em;
+  }
+  
+  #output {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #ffffff;
+    border: 2px solid #b3e5fc;
+    border-radius: 8px;
+    max-width: 600px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border: 1px solid #90caf9;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  }
+  
